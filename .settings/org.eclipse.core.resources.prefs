@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//Config/application-cfg.properties=UTF-8
+encoding//Config/oracle-cfg.properties=UTF-8
+encoding//Config/timer-cfg.properties=UTF-8
+encoding//src/main/java/cn/chenpeng/cmcckpida/oracle/DataAcquisition.java=UTF-8
